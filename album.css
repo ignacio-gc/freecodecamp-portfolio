@@ -1,3 +1,5 @@
+@import url("https://fonts.googleapis.com/css?family=Monoton|Special+Elite|VT323|Coming+Soon");
+
 .album {
     background-color: transparent;
     font-family: 'Special Elite', cursive;
@@ -94,8 +96,8 @@ section {
 /* Icon 1 */
 
 #nav-icon1 div {
-    width: 25px;
-    height: 25px;
+    width: 28px;
+    height: 28px;
     position: relative;
     margin: auto auto;
     -webkit-transform: rotate(0deg);
