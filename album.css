@@ -4,6 +4,7 @@
     padding-top: 3rem;
     padding-bottom: 3rem;
 }
+
 body, .card {
     background-color: lightgray;
 }
@@ -11,13 +12,16 @@ body, .card {
 .btn-primary, .btn-secondary {
     margin-top: 55px;
 }
+
 .navbar {
     margin-bottom: 0;
 }
+
 .navbar-brand {
     color: black;
     font-family: 'Special Elite', cursive;
 }
+
 .jumbotron {
     background-color: transparent;
     margin-bottom: 0;
@@ -25,25 +29,31 @@ body, .card {
     padding-top: 6rem;
     font-family: 'Special Elite', cursive;
 }
+
 .jumbotron-heading {
     font-family: 'Monoton', cursive;
     margin-bottom: 35px;
 }
+
 #navbarHeader, footer {
     font-family: 'VT323', monospace;
     font-size: 19px;
 }
+
 .jumbotron p:last-child {
     margin-bottom: 0;
 }
+
 .jumbotron-heading {
     color: black;
     font-weight: 300;
 }
+
 .jumbotron .container {
     color: black;
     max-width: 40rem;
 }
+
 .card {
     border: 0;
     float: left;
@@ -51,25 +61,31 @@ body, .card {
     padding: .75rem;
     width: 33.333%;
 }
+
 .card > img, .card > a > img {
     margin-bottom: .75rem;
     min-height: 281.683px;
 }
+
 .card-text {
     font-size: 85%;
 }
+
 footer {
     padding-bottom: 3rem;
     padding-top: 3rem;
 }
+
 footer p {
     margin-bottom: .25rem;
 }
+
 section {
     color: white;
     min-height: 200px;
     width: 100%;
 }
+
 .navbar-toggler {
     color: black;
     font-size: 1.5em;
@@ -117,15 +133,15 @@ section {
 }
 
 #nav-icon1 div span:nth-child(2), #nav-icon1 div span:nth-child(3) {
-    top: 8px;
+    top: 9px;
 }
 
 #nav-icon1 div span:nth-child(4) {
-    top: 16px;
+    top: 18px;
 }
 
 #nav-icon1.open div span:nth-child(1) {
-    top: 8px;
+    top: 9px;
     width: 0;
     left: 50%;
 }
@@ -145,7 +161,7 @@ section {
 }
 
 #nav-icon1.open div span:nth-child(4) {
-    top: 8px;
+    top: 9px;
     width: 0;
     left: 50%;
 }
