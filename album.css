@@ -93,6 +93,25 @@ section {
     font-size: 1.5em;
 }
 
+.thumb {
+    text-align: center;
+    /* max-width: 356px; */
+}
+
+.thumb img, .thumb p {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@media (min-width: 576px) {
+    .thumb img {
+        margin-bottom: .75rem;
+        min-height: 281.683px;
+        max-width: 340px;
+    }
+} 
+
 /* Icon 1 */
 
 #nav-icon1 div {
