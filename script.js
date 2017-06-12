@@ -30,10 +30,12 @@ $(document).ready( function () {
     });
 
     $('.btn-primary').click(function () {
-        $('html, body').animate({ scrollTop: 0 }, 500);
-        $('#navbarHeader').collapse('show');
-        $('#nav-icon1').addClass('open');
-
+        
+        $('html, body').animate({ scrollTop: 0 }, 500, function () {
+            $('#navbarHeader').collapse('show');
+            $('#nav-icon1').addClass('open');
+        });
+        
         // versión anterior, no daba collapse is transitioning error
         // $('body').animate({},1000, "swing", function() {
         // $(window).scrollTop(0);

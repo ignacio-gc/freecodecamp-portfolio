@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Monoton|Special+Elite|VT323|Coming+Soon");
+/* @import url("https://fonts.googleapis.com/css?family=Monoton|Special+Elite|VT323|Coming+Soon"); */
 
 .album {
     background-color: transparent;
@@ -58,7 +58,7 @@ body, .card {
 
 .card {
     border: 0;
-    float: left;
+    /* float: left; */
     margin-bottom: 2rem;
     padding: .75rem;
     width: 33.333%;
