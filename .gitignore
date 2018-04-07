@@ -1,0 +1,6 @@
+*~
+img1/
+\#*\#
+.\#*
+bootstrap/*
+!bootstrap/css/bootstrap.min.css
