@@ -2,5 +2,5 @@
 img1/
 \#*\#
 .\#*
-bootstrap/
+bootstrap/*
 !bootstrap/css/bootstrap.min.css
