@@ -4,5 +4,8 @@ img1/
 .\#*
 bootstrap/*
 !bootstrap/css/
+!bootstrap/js/
 bootstrap/css/*
 !bootstrap/css/bootstrap.min.css
+bootstrap/js/*
+!bootstrap/js/bootstrap.min.js
