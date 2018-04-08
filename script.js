@@ -34,10 +34,6 @@ $(document).ready( function () {
       $('#navbarHeader').collapse('show');
       $('#nav-icon1').addClass('open');
     });
-
-    // versión anterior, no daba collapse is transitioning error
-    // $('body').animate({},1000, "swing", function() {
-    // $(window).scrollTop(0);
   });
 
 
