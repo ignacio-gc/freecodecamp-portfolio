@@ -38,8 +38,8 @@ body, .card {
 }
 
 #navbarHeader, footer {
-    font-family: 'VT323', monospace;
-    font-size: 19px;
+    font-family: 'Special Elite', cursive;
+    font-size: 15px;
 }
 
 .jumbotron p:last-child {
@@ -110,7 +110,7 @@ section {
         min-height: 281.683px;
         max-width: 340px;
     }
-} 
+}
 
 /* Icon 1 */
 
